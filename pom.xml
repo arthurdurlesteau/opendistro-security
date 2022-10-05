@@ -53,7 +53,7 @@
 
   <properties>
     <opendistro_security_advanceda_modules.version>1.2.1.0</opendistro_security_advanceda_modules.version>
-    <elasticsearch.version>7.2.1</elasticsearch.version>
+    <elasticsearch.version>7.14.0</elasticsearch.version>
 
     <!-- deps -->
     <netty-native.version>2.0.25.Final</netty-native.version>
